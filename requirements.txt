@@ -1,8 +1,9 @@
 tensorboard
-streamlit==1.34.0
-tensorflow==2.16.1
-numpy==1.24.3
-pandas==2.1.4
-scikit-learn==1.3.0
-matplotlib==3.7.1
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
 scikeras
+nltk
